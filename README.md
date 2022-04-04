@@ -1,5 +1,22 @@
-### Hi there 👋
+### Hi there 👋 I'm Görkem
 
+A Software Engineer in Turkey!
+
+I'm currently a front-end developer at design firm The GADS
+
+Contact with me:
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/g%C3%B6rkem-%C3%A7ak%C4%B1c%C4%B1-909146202/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/gorkem.cakici/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://twitter.com/gorkemcakici">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 <!--
 **gorkemcakici/gorkemcakici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
