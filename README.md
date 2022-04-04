@@ -1,11 +1,19 @@
 ### Hi there 👋 I'm Görkem
 
-A Software Engineer in Turkey!
+A Front-End Developer in Turkey!
 
+
+
+<h4>Graduation</h4>
+Software Engineering | Fırat University<br>
+GPA : 3,17/4
+<hr>
+<h4>I'm currently working on</h4>
 I'm currently a front-end developer at design firm The GADS
-
+<hr>
 Contact with me:
-
+<br>
+<br>
 <div id="badges">
   <a href="https://www.linkedin.com/in/g%C3%B6rkem-%C3%A7ak%C4%B1c%C4%B1-909146202/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
