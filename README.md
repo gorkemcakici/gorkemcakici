@@ -9,7 +9,7 @@ Software Engineering | Fırat University<br>
 GPA : 3,17/4
 <hr>
 <h4>I'm currently working on</h4>
-I'm currently a front-end developer at design firm The GADS
+I am currently working as a software engineer at T4 Analytics
 <hr>
 Contact with me:
 <br>
