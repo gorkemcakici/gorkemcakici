@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Görkem
 
-A Front-End Developer in Turkey!
+A Full-stack Developer in Turkey!
 
 
 
