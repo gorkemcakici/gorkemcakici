@@ -15,7 +15,7 @@ Contact with me:
 <br>
 <br>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/g%C3%B6rkem-%C3%A7ak%C4%B1c%C4%B1-909146202/">
+  <a href="https://www.linkedin.com/in/gorkemcakici">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/gorkem.cakici/">
