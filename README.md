@@ -9,7 +9,7 @@ Software Engineering | Fırat University<br>
 GPA : 3,17/4
 <hr>
 <h4>I'm currently working on</h4>
-I am currently working as a software engineer at T4 Analytics
+I am currently working as a software engineer at T4 People Analytics
 <hr>
 Contact with me:
 <br>
